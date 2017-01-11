@@ -1,0 +1,1 @@
+# MSTR visulization insight plugins.
